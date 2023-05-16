@@ -2,8 +2,8 @@ import sys
 import requests
 import os
 
-package_name = "fifthtry.github.io/opensans"
-repo = "opensans"
+package_name = "sarvom.github.io/poppins"
+repo = "poppins"
 
 def get_url(comment, ff, fs, fw, src):
     if comment == None:
